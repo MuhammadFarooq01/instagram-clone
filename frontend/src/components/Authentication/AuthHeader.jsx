@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function AuthHeader() {
   return (
-    <div className="flex fixed w-full  border-b border-gray-300">
+    <div className="flex fixed  bg-white w-full  border-b border-gray-300">
       <div className="flex w-full max-w-[935px] px-5 cbp935:px-0 justify-between pt-[16px] pb-[11px] mx-auto">
         <div className="flex self-end logo">
           <a href="localhost:5173/">
