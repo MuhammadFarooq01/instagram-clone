@@ -26,6 +26,9 @@ export default {
         cbp935: "935px",
       },
     },
+    backgroundImage: {
+      phones: "url('/login/phones.png')",
+    },
   },
   plugins: [],
 };
